@@ -1,1 +1,1 @@
-# LeetcodeStackQueue
+LeetcodeStackQueue individual task for OOP.
